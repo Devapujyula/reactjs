@@ -1,0 +1,29 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "reactjs learning module",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devapujyula/reactjs.git"
+  },
+  "author": "D S S Prakash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Devapujyula/reactjs/issues"
+  },
+  "homepage": "https://github.com/Devapujyula/reactjs#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "browsers-list": [
+    "last 2 versions"
+  ]
+}
